@@ -23,9 +23,7 @@ public class GetConfig {
     }
 
 // Метод на светлое будущее
-/*
-    public Configuration(){
+    public GetConfig(){
     }
 
- */
 }
